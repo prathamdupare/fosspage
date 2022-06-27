@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "https://prathamdupare.netlify.app/"
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
